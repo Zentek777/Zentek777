@@ -31,13 +31,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40" height="40"/>
 </div>
 
-### :arrow_backward: Достижения :
+### :trophy: Достижения :
 
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=Zentek777" alt=""/>
 </div>
 
-### :niger: Наиболее используемые языки :
+### :keyboard: Наиболее используемые языки :
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zentek777" alt=""/>
