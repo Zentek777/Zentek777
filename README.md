@@ -34,17 +34,17 @@
 ### :arrow_backward: Достижения :
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=rompersStomper" alt=""/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Zentek777" alt=""/>
 </div>
 
 ### :niger: Наиболее используемые языки :
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rompersStomper" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zentek777" alt=""/>
 </div>
 
 ### :arrow_backward: Статистика активности :
 
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rompersStomper&theme=dracula" alt=""/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zentek777&theme=dracula" alt=""/>
 </div>
