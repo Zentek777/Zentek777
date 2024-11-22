@@ -12,15 +12,16 @@
 <div id="heythere" align="center">
 <h1> Профиль на GITHUB </h1>
 </div>
-### :woman_technologist: Обо мне :
 
-- :brain: факт обо мне
+### :apple: Обо мне :
 
-- :woman_pilot: факт обо мне
+- :banana: факт обо мне
 
-- :biking_woman: факт обо мне
+- :afghanistan: факт обо мне
 
-### :hammer_and_wrench: Языки и инструменты :
+- :iraq: факт обо мне
+
+### :belarus: Языки и инструменты :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
@@ -30,19 +31,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40" height="40"/>
 </div>
 
-### :trophy: Достижения :
+### :arrow_backward: Достижения :
 
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=rompersStomper" alt=""/>
 </div>
 
-### :keyboard: Наиболее используемые языки :
+### :niger: Наиболее используемые языки :
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rompersStomper" alt=""/>
 </div>
 
-### :bar_chart: Статистика активности :
+### :arrow_backward: Статистика активности :
 
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rompersStomper&theme=dracula" alt=""/>
